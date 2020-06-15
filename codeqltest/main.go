@@ -1,4 +1,4 @@
-package reviewdog
+package main
 
 import (
 	"errors"
